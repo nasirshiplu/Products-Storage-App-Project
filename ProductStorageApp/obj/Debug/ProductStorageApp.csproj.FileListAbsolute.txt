@@ -1,0 +1,34 @@
+D:\BITM\HW\ProductStorageApp\ProductStorageApp\bin\Debug\ProductStorageApp.exe.config
+D:\BITM\HW\ProductStorageApp\ProductStorageApp\bin\Debug\ProductStorageApp.exe
+D:\BITM\HW\ProductStorageApp\ProductStorageApp\bin\Debug\ProductStorageApp.pdb
+D:\BITM\HW\ProductStorageApp\ProductStorageApp\obj\Debug\ProductStorageApp.productStorageUI.resources
+D:\BITM\HW\ProductStorageApp\ProductStorageApp\obj\Debug\ProductStorageApp.Properties.Resources.resources
+D:\BITM\HW\ProductStorageApp\ProductStorageApp\obj\Debug\ProductStorageApp.csproj.GenerateResource.Cache
+D:\BITM\HW\ProductStorageApp\ProductStorageApp\obj\Debug\ProductStorageApp.exe
+D:\BITM\HW\ProductStorageApp\ProductStorageApp\obj\Debug\ProductStorageApp.pdb
+D:\BITM\HW\ProductStorageApp\ProductStorageApp\obj\Debug\ProductStorageApp.csprojResolveAssemblyReference.cache
+F:\Mahedi C#\BASIS\ProductStorageApp\ProductStorageApp\bin\Debug\ProductStorageApp.exe.config
+F:\Mahedi C#\BASIS\ProductStorageApp\ProductStorageApp\obj\Debug\ProductStorageApp.exe
+F:\Mahedi C#\BASIS\ProductStorageApp\ProductStorageApp\obj\Debug\ProductStorageApp.pdb
+F:\Mahedi C#\BASIS\ProductStorageApp\ProductStorageApp\bin\Debug\ProductStorageApp.exe
+F:\Mahedi C#\BASIS\ProductStorageApp\ProductStorageApp\bin\Debug\ProductStorageApp.pdb
+F:\Mahedi C#\BASIS\ProductStorageApp\ProductStorageApp\obj\Debug\ProductStorageApp.productStorageUI.resources
+F:\Mahedi C#\BASIS\ProductStorageApp\ProductStorageApp\obj\Debug\ProductStorageApp.Properties.Resources.resources
+F:\Mahedi C#\BASIS\ProductStorageApp\ProductStorageApp\obj\Debug\ProductStorageApp.csproj.GenerateResource.Cache
+E:\Mahedi\HW\ProductStorageApp\ProductStorageApp\bin\Debug\ProductStorageApp.exe.config
+E:\Mahedi\HW\ProductStorageApp\ProductStorageApp\obj\Debug\ProductStorageApp.exe
+E:\Mahedi\HW\ProductStorageApp\ProductStorageApp\obj\Debug\ProductStorageApp.pdb
+E:\Mahedi\HW\ProductStorageApp\ProductStorageApp\bin\Debug\ProductStorageApp.exe
+E:\Mahedi\HW\ProductStorageApp\ProductStorageApp\bin\Debug\ProductStorageApp.pdb
+E:\Mahedi\HW\ProductStorageApp\ProductStorageApp\obj\Debug\ProductStorageApp.csprojResolveAssemblyReference.cache
+E:\Mahedi\HW\ProductStorageApp\ProductStorageApp\obj\Debug\ProductStorageApp.productStorageUI.resources
+E:\Mahedi\HW\ProductStorageApp\ProductStorageApp\obj\Debug\ProductStorageApp.Properties.Resources.resources
+E:\Mahedi\HW\ProductStorageApp\ProductStorageApp\obj\Debug\ProductStorageApp.csproj.GenerateResource.Cache
+J:\ProductStorageApp\ProductStorageApp\bin\Debug\ProductStorageApp.exe.config
+J:\ProductStorageApp\ProductStorageApp\obj\Debug\ProductStorageApp.exe
+J:\ProductStorageApp\ProductStorageApp\obj\Debug\ProductStorageApp.pdb
+J:\ProductStorageApp\ProductStorageApp\bin\Debug\ProductStorageApp.exe
+J:\ProductStorageApp\ProductStorageApp\bin\Debug\ProductStorageApp.pdb
+J:\ProductStorageApp\ProductStorageApp\obj\Debug\ProductStorageApp.productStorageUI.resources
+J:\ProductStorageApp\ProductStorageApp\obj\Debug\ProductStorageApp.Properties.Resources.resources
+J:\ProductStorageApp\ProductStorageApp\obj\Debug\ProductStorageApp.csproj.GenerateResource.Cache
